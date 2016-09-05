@@ -12,7 +12,7 @@ package tareaingsoft2rickpilay;
 public class Clase3 {
     
     public void Metodo2(){
-        System.out.println("Te pica el orto");
+        System.out.println("Me confundi era \n Nuevo Metodo");
     }
     
 }
